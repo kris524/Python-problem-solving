@@ -1,14 +1,4 @@
-'''
-# Sample code to perform I/O:
-
-name = input()                  # Reading input from STDIN
-print('Hi, %s.' % name)         # Writing output to STDOUT
-
-# Warning: Printing unwanted or ill-formatted data to output will cause the test cases to fail
-'''
-
-# Write your code here
-#number of cases
+#THE PROBLEM THAT WAS SOLVED: https://www.hackerearth.com/practice/codemonk/
 T = int(input())
 
 #Number of elements 
